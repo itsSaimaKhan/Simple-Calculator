@@ -1,6 +1,6 @@
-# my_string_1 : str = "hello"
-# my_string_2 : str = "world"
-# my_string_3 : str = my_string_1 + "" + my_string_2
+my_string_1 : str = "hello"
+my_string_2 : str = "world"
+my_string_3 : str = my_string_1 + "" + my_string_2
 
 # print(my_string_1 + my_string_2)
 # print(my_string_3[-1])
