@@ -24,8 +24,8 @@ my_string_3 : str = ""
 # print(my_string_3)
 
 # my_string: str = "hello, world! hello, pakistan"
-# starting-index = my_string.find("hello")
-# starting_index_2 = starting("hello", starting_index + 1)
+starting-index = my_string.find("hello")
+starting_index_2 = starting("hello", starting_index + 1)
 print(starting_index_2)
 
 
