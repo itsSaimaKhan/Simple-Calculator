@@ -18,7 +18,7 @@ print(len(my_string_3))
 # my_string_3 : str = ""
 
 
-# print(my_string_3)
+print(my_string_3)
 
 my_string_3.replace("hello", "hi")
 print(my_string_3)
