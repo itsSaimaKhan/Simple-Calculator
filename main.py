@@ -29,7 +29,7 @@ print(len(my_string_3))
 # print(starting_index_2)
 
 
-# print("Substring to search = ", "Hello")
+print("Substring to search = ", "Hello")
 
 
 
