@@ -15,7 +15,7 @@ print(len(my_string_3))
 # print(my_string_3.split())
 # print(my_string_3.split("L"))
 
-# my_string_3 : str = ""
+my_string_3 : str = ""
 
 
 print(my_string_3)
