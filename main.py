@@ -12,8 +12,8 @@ print(len(my_string_3))
 # print(my_string_3.upper())
 # print(my_string_3.lower())
 
-# print(my_string_3.split())
-# print(my_string_3.split("L"))
+print(my_string_3.split())
+print(my_string_3.split("L"))
 
 my_string_3 : str = ""
 
