@@ -29,7 +29,7 @@ starting_index_2 = starting("hello", starting_index + 1)
 print(starting_index_2)
 
 
-print("Substring to search = ", "Hello")
+# print("Substring to search = ", "Hello")
 
 
 
