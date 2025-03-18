@@ -20,8 +20,8 @@ print(len(my_string_3))
 
 # print(my_string_3)
 
-# my_string_3.replace("hello", "hi")
-# print(my_string_3)
+my_string_3.replace("hello", "hi")
+print(my_string_3)
 
 my_string: str = "hello, world! hello, pakistan"
 starting-index = my_string.find("hello")
