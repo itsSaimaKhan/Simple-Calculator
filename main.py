@@ -9,8 +9,8 @@ print(len(my_string_3))
 # print(my_string_3[0:11:2])
 
 # print( [method for method in dir(str) if "-" not in method])
-# print(my_string_3.upper())
-# print(my_string_3.lower())
+print(my_string_3.upper())
+print(my_string_3.lower())
 
 print(my_string_3.split())
 print(my_string_3.split("L"))
